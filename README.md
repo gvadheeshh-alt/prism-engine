@@ -6,27 +6,9 @@ DataQuest 3.0, problem statement DQNM. Built with Flutter (Android + Web).
 Every score is computed by deterministic, explainable math. The AI counselor only explains
 results; it never changes a number. Tap any score in the app to see its formula and inputs.
 
-## Download the Android app
-
-**[Download the latest APK](https://github.com/YOUR-USERNAME/prism-engine/releases/latest)** (file: `PRISM-Engine-v1.0.apk`)
-
-To install on an Android phone:
-1. Open the link on the phone and download the APK.
-2. Tap the downloaded file. If Android asks, allow installs from this source (your browser or Files app).
-3. Tap **Install**, then open **PRISM Engine**.
-
-The APK is signed with Flutter's default debug key, which is fine for sharing and testing but not for the Play Store.
-All salary, fee and demand figures in the app are illustrative demo data.
-
-To build the APK yourself:
-
-```bash
-flutter build apk --release
-# output: build/app/outputs/flutter-apk/app-release.apk
-```
-
-Release builds need `<uses-permission android:name="android.permission.INTERNET"/>` in
-`android/app/src/main/AndroidManifest.xml` (for fonts and the optional AI counselor).
+**Best experienced in a desktop web browser** (Chrome or Edge on a laptop or PC). The interface,
+3D visuals and dashboards are designed for large screens. An Android build is available as a preview
+(see [Android preview](#android-preview-apk) below).
 
 ## Run it
 
@@ -217,8 +199,34 @@ scroll reveals. Wide screens get a section rail on the results page. The parent 
 canvases sit inside `RepaintBoundary`, and their tickers pause automatically when another page covers them.
 The scoring engine is untouched by the UI layer, so all engine tests still apply.
 
+## Android preview (APK)
+
+The app is designed for desktop web first. The Android build runs the same engine and features, but the
+layout is not yet optimised for small screens, so some pages feel cramped on a phone. For demos and judging,
+please use the web version.
+
+**[Download the latest APK](https://github.com/gvadheeshh-alt/prism-engine/releases/latest)** (file: `PRISM-Engine-v1.0.apk`)
+
+To install on an Android phone:
+1. Open the link on the phone and download the APK.
+2. Tap the downloaded file. If Android asks, allow installs from this source (your browser or Files app).
+3. Tap **Install**, then open **PRISM Engine**.
+
+The APK is signed with Flutter's default debug key, which is fine for sharing and testing but not for the Play Store.
+
+To build it yourself:
+
+```bash
+flutter build apk --release
+# output: build/app/outputs/flutter-apk/app-release.apk
+```
+
+Release builds need `<uses-permission android:name="android.permission.INTERNET"/>` in
+`android/app/src/main/AndroidManifest.xml` (for fonts and the optional AI counselor).
+
 ## Future scope
 
+- A mobile-first layout so the Android app matches the web experience
 - Real job-postings feed behind the `JobMarketSource` interface
 - Backend (e.g. Supabase or Firebase) so student and parent can use different phones
 - Validated psychometric instrument and norms for Indian students
