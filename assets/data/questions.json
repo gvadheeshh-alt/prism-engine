@@ -1,0 +1,494 @@
+[
+ {
+  "id": "L01",
+  "type": "likert",
+  "dimension": "realistic",
+  "text": "I would enjoy fixing a bicycle, a fan or a phone charger myself.",
+  "reverse": false
+ },
+ {
+  "id": "L02",
+  "type": "likert",
+  "dimension": "investigative",
+  "text": "I like finding out why things happen, like why a medicine works or why the sky is blue.",
+  "reverse": false
+ },
+ {
+  "id": "L03",
+  "type": "likert",
+  "dimension": "artistic",
+  "text": "In my free time I enjoy drawing, designing, photography, music or writing stories.",
+  "reverse": false
+ },
+ {
+  "id": "L04",
+  "type": "likert",
+  "dimension": "social",
+  "text": "Friends often come to me when they have a problem.",
+  "reverse": false
+ },
+ {
+  "id": "L05",
+  "type": "likert",
+  "dimension": "enterprising",
+  "text": "I like being the one who organises a team, an event or a college fest.",
+  "reverse": false
+ },
+ {
+  "id": "L06",
+  "type": "likert",
+  "dimension": "conventional",
+  "text": "I keep my notes, files and money accounts neat and up to date.",
+  "reverse": false
+ },
+ {
+  "id": "L07",
+  "type": "likert",
+  "dimension": "realistic",
+  "text": "I would like a job where I build, repair or operate real machines and equipment.",
+  "reverse": false
+ },
+ {
+  "id": "L08",
+  "type": "likert",
+  "dimension": "investigative",
+  "text": "I enjoy working on a hard maths or science problem even when it takes a long time.",
+  "reverse": false
+ },
+ {
+  "id": "L09",
+  "type": "likert",
+  "dimension": "artistic",
+  "text": "I prefer to create my own design rather than copy an example.",
+  "reverse": false
+ },
+ {
+  "id": "L10",
+  "type": "likert",
+  "dimension": "social",
+  "text": "I would enjoy teaching a younger student something they find difficult.",
+  "reverse": false
+ },
+ {
+  "id": "L11",
+  "type": "likert",
+  "dimension": "enterprising",
+  "text": "I enjoy persuading people, for example in a debate or when selling something.",
+  "reverse": false
+ },
+ {
+  "id": "L12",
+  "type": "likert",
+  "dimension": "conventional",
+  "text": "I enjoy work with clear steps and rules, like accounts, records or data entry.",
+  "reverse": false
+ },
+ {
+  "id": "L13",
+  "type": "likert",
+  "dimension": "realistic",
+  "text": "I would rather read about how an engine works than take one apart.",
+  "reverse": true
+ },
+ {
+  "id": "L14",
+  "type": "likert",
+  "dimension": "investigative",
+  "text": "I would enjoy running experiments in a lab and recording the results.",
+  "reverse": false
+ },
+ {
+  "id": "L15",
+  "type": "likert",
+  "dimension": "artistic",
+  "text": "I would be happy in a job with no creative work at all.",
+  "reverse": true
+ },
+ {
+  "id": "L16",
+  "type": "likert",
+  "dimension": "social",
+  "text": "I would like a job caring for people, such as nursing, teaching or counselling.",
+  "reverse": false
+ },
+ {
+  "id": "L17",
+  "type": "likert",
+  "dimension": "enterprising",
+  "text": "I would like to start my own business one day, even if it is risky.",
+  "reverse": false
+ },
+ {
+  "id": "L18",
+  "type": "likert",
+  "dimension": "conventional",
+  "text": "Checking details carefully, like proofreading or verifying numbers, suits me.",
+  "reverse": false
+ },
+ {
+  "id": "C01",
+  "type": "choice",
+  "dimension": "realistic",
+  "text": "On a free Saturday, which would you rather do?",
+  "options": [
+   "Build a working model or fix something at home",
+   "Watch a science documentary and work out how it all works"
+  ],
+  "optionDims": [
+   "realistic",
+   "investigative"
+  ]
+ },
+ {
+  "id": "C02",
+  "type": "choice",
+  "dimension": "artistic",
+  "text": "At the college fest, which job would you pick?",
+  "options": [
+   "Design the posters and the stage",
+   "Welcome the guests and help anyone who is lost"
+  ],
+  "optionDims": [
+   "artistic",
+   "social"
+  ]
+ },
+ {
+  "id": "C03",
+  "type": "choice",
+  "dimension": "enterprising",
+  "text": "In a group project, which role suits you better?",
+  "options": [
+   "Lead the team and present to the judges",
+   "Keep the budget, files and records accurate"
+  ],
+  "optionDims": [
+   "enterprising",
+   "conventional"
+  ]
+ },
+ {
+  "id": "C04",
+  "type": "choice",
+  "dimension": "realistic",
+  "text": "Which class would you rather take?",
+  "options": [
+   "An electronics or carpentry workshop",
+   "A painting, music or film-making class"
+  ],
+  "optionDims": [
+   "realistic",
+   "artistic"
+  ]
+ },
+ {
+  "id": "C05",
+  "type": "choice",
+  "dimension": "investigative",
+  "text": "Which summer internship sounds better?",
+  "options": [
+   "Research assistant in a science lab",
+   "Sales and marketing at a new startup"
+  ],
+  "optionDims": [
+   "investigative",
+   "enterprising"
+  ]
+ },
+ {
+  "id": "C06",
+  "type": "choice",
+  "dimension": "social",
+  "text": "Which job sounds more like you?",
+  "options": [
+   "School counsellor",
+   "Bank officer"
+  ],
+  "optionDims": [
+   "social",
+   "conventional"
+  ]
+ },
+ {
+  "id": "C07",
+  "type": "choice",
+  "dimension": "realistic",
+  "text": "Which would you rather do?",
+  "options": [
+   "Operate and repair a drone",
+   "Pitch a business idea to investors"
+  ],
+  "optionDims": [
+   "realistic",
+   "enterprising"
+  ]
+ },
+ {
+  "id": "C08",
+  "type": "choice",
+  "dimension": "investigative",
+  "text": "Which would you rather spend an afternoon on?",
+  "options": [
+   "Working out why an experiment gave a strange result",
+   "Organising a messy spreadsheet of marks into clear tables"
+  ],
+  "optionDims": [
+   "investigative",
+   "conventional"
+  ]
+ },
+ {
+  "id": "C09",
+  "type": "choice",
+  "dimension": "artistic",
+  "text": "Which would you find more rewarding?",
+  "options": [
+   "Writing and directing a short film",
+   "Volunteering at a hospital or an old-age home"
+  ],
+  "optionDims": [
+   "artistic",
+   "social"
+  ]
+ },
+ {
+  "id": "L19",
+  "type": "likert",
+  "dimension": "openness",
+  "text": "I like trying new subjects, foods or places, even if I might not enjoy them.",
+  "reverse": false
+ },
+ {
+  "id": "L20",
+  "type": "likert",
+  "dimension": "conscientiousness",
+  "text": "I finish homework and projects on time, even the boring ones.",
+  "reverse": false
+ },
+ {
+  "id": "L21",
+  "type": "likert",
+  "dimension": "collaboration",
+  "text": "I do my best work in a team project rather than alone.",
+  "reverse": false
+ },
+ {
+  "id": "L22",
+  "type": "likert",
+  "dimension": "riskTolerance",
+  "text": "I would choose an exciting career with uncertain pay over a safe one with fixed pay.",
+  "reverse": false
+ },
+ {
+  "id": "L23",
+  "type": "likert",
+  "dimension": "openness",
+  "text": "I often read or watch things about topics outside my syllabus.",
+  "reverse": false
+ },
+ {
+  "id": "L24",
+  "type": "likert",
+  "dimension": "conscientiousness",
+  "text": "Before exams I plan my week instead of studying at the last minute.",
+  "reverse": false
+ },
+ {
+  "id": "L25",
+  "type": "likert",
+  "dimension": "collaboration",
+  "text": "I prefer working alone over group projects.",
+  "reverse": true
+ },
+ {
+  "id": "L26",
+  "type": "likert",
+  "dimension": "riskTolerance",
+  "text": "I am comfortable taking a risk when the possible reward is big.",
+  "reverse": false
+ },
+ {
+  "id": "A01",
+  "type": "aptitude",
+  "dimension": "numerical",
+  "text": "A phone's price goes up by 20%, then down by 20%. Compared with the original price, it is now:",
+  "options": [
+   "The same",
+   "4% lower",
+   "4% higher",
+   "2% lower"
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "A02",
+  "type": "aptitude",
+  "dimension": "numerical",
+  "text": "A 150 m long train passes a pole in 10 seconds. At the same speed, how long does it take to cross a 450 m platform?",
+  "options": [
+   "30 seconds",
+   "36 seconds",
+   "40 seconds",
+   "45 seconds"
+  ],
+  "answerIndex": 2,
+  "seconds": 60
+ },
+ {
+  "id": "A03",
+  "type": "aptitude",
+  "dimension": "logical",
+  "text": "What comes next: 3, 5, 9, 17, 33, ?",
+  "options": [
+   "49",
+   "57",
+   "65",
+   "66"
+  ],
+  "answerIndex": 2,
+  "seconds": 60
+ },
+ {
+  "id": "A04",
+  "type": "aptitude",
+  "dimension": "logical",
+  "text": "Asha finished ahead of Bala but behind Chitra. Deepak finished ahead of Chitra. Who finished last?",
+  "options": [
+   "Asha",
+   "Bala",
+   "Chitra",
+   "Deepak"
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "A05",
+  "type": "aptitude",
+  "dimension": "logical",
+  "text": "All roses are flowers. Some flowers fade quickly. Which statement must be true?",
+  "options": [
+   "All roses fade quickly",
+   "Some roses fade quickly",
+   "No roses fade quickly",
+   "None of these must be true"
+  ],
+  "answerIndex": 3,
+  "seconds": 60
+ },
+ {
+  "id": "A06",
+  "type": "aptitude",
+  "dimension": "verbal",
+  "text": "Which word is most nearly the OPPOSITE of 'frugal'?",
+  "options": [
+   "Careful",
+   "Extravagant",
+   "Honest",
+   "Poor"
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "A07",
+  "type": "aptitude",
+  "dimension": "verbal",
+  "text": "Which sentence is grammatically correct?",
+  "options": [
+   "Neither of the answers are correct.",
+   "Neither of the answers is correct.",
+   "Neither of the answer is correct.",
+   "Neither of answers is correct."
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "A08",
+  "type": "aptitude",
+  "dimension": "spatial",
+  "text": "A 4 × 4 × 4 cube is painted on every face and cut into 64 small cubes. How many small cubes have no paint at all?",
+  "options": [
+   "4",
+   "8",
+   "16",
+   "24"
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "A09",
+  "type": "aptitude",
+  "dimension": "spatial",
+  "text": "You face north. You turn 90° to your right, then 180°, then 90° to your left. Which way do you face now?",
+  "options": [
+   "North",
+   "East",
+   "South",
+   "West"
+  ],
+  "answerIndex": 2,
+  "seconds": 60
+ },
+ {
+  "id": "A10",
+  "type": "aptitude",
+  "dimension": "creative",
+  "text": "Which single word goes with all three: falling, shooting, dust?",
+  "options": [
+   "Rain",
+   "Star",
+   "Gold",
+   "Storm"
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "A11",
+  "type": "aptitude",
+  "dimension": "creative",
+  "text": "Which single word goes with all three: pine, crab, sauce?",
+  "options": [
+   "Tree",
+   "Apple",
+   "Shell",
+   "Tomato"
+  ],
+  "answerIndex": 1,
+  "seconds": 60
+ },
+ {
+  "id": "S01",
+  "type": "selfRating",
+  "dimension": "numerical",
+  "text": "How good are you at maths and working with numbers?"
+ },
+ {
+  "id": "S02",
+  "type": "selfRating",
+  "dimension": "logical",
+  "text": "How good are you at puzzles and step-by-step reasoning?"
+ },
+ {
+  "id": "S03",
+  "type": "selfRating",
+  "dimension": "verbal",
+  "text": "How good are you at reading, writing and explaining ideas?"
+ },
+ {
+  "id": "S04",
+  "type": "selfRating",
+  "dimension": "spatial",
+  "text": "How good are you at imagining shapes, maps and 3D objects?"
+ },
+ {
+  "id": "S05",
+  "type": "selfRating",
+  "dimension": "creative",
+  "text": "How good are you at coming up with original ideas?"
+ }
+]

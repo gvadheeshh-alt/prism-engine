@@ -1,0 +1,162 @@
+[
+ {
+  "id": "jee-main",
+  "name": "JEE Main",
+  "conductingBody": "National Testing Agency",
+  "typicalMonths": [
+   "Jan",
+   "Apr"
+  ],
+  "eligibility": "Class 12 with PCM",
+  "officialUrl": "https://jeemain.nta.nic.in"
+ },
+ {
+  "id": "jee-advanced",
+  "name": "JEE Advanced (IITs)",
+  "conductingBody": "IITs (rotating)",
+  "typicalMonths": [
+   "May",
+   "Jun"
+  ],
+  "eligibility": "Top JEE Main qualifiers",
+  "officialUrl": "https://jeeadv.ac.in"
+ },
+ {
+  "id": "neet-ug",
+  "name": "NEET-UG",
+  "conductingBody": "National Testing Agency",
+  "typicalMonths": [
+   "May"
+  ],
+  "eligibility": "Class 12 with PCB",
+  "officialUrl": "https://neet.nta.nic.in"
+ },
+ {
+  "id": "cuet-ug",
+  "name": "CUET-UG",
+  "conductingBody": "National Testing Agency",
+  "typicalMonths": [
+   "May",
+   "Jun"
+  ],
+  "eligibility": "Class 12, any stream (subject-wise)",
+  "officialUrl": "https://cuet.nta.nic.in"
+ },
+ {
+  "id": "clat",
+  "name": "CLAT (National Law Universities)",
+  "conductingBody": "Consortium of NLUs",
+  "typicalMonths": [
+   "Dec"
+  ],
+  "eligibility": "Class 12, any stream",
+  "officialUrl": "https://consortiumofnlus.ac.in"
+ },
+ {
+  "id": "nata",
+  "name": "NATA (Architecture)",
+  "conductingBody": "Council of Architecture",
+  "typicalMonths": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "eligibility": "Class 12 with Maths",
+  "officialUrl": "https://www.nata.in"
+ },
+ {
+  "id": "nid-dat",
+  "name": "NID DAT (Design)",
+  "conductingBody": "National Institute of Design",
+  "typicalMonths": [
+   "Dec",
+   "Jan"
+  ],
+  "eligibility": "Class 12, any stream",
+  "officialUrl": "https://admissions.nid.edu"
+ },
+ {
+  "id": "uceed",
+  "name": "UCEED (B.Des at IITs)",
+  "conductingBody": "IIT Bombay",
+  "typicalMonths": [
+   "Jan"
+  ],
+  "eligibility": "Class 12, any stream",
+  "officialUrl": "https://www.uceed.iitb.ac.in"
+ },
+ {
+  "id": "nift",
+  "name": "NIFT entrance",
+  "conductingBody": "National Institute of Fashion Technology",
+  "typicalMonths": [
+   "Feb"
+  ],
+  "eligibility": "Class 12, any stream",
+  "officialUrl": "https://www.nift.ac.in"
+ },
+ {
+  "id": "ipmat",
+  "name": "IPMAT (IIM integrated management)",
+  "conductingBody": "IIM Indore / IIM Rohtak",
+  "typicalMonths": [
+   "May"
+  ],
+  "eligibility": "Class 12, any stream",
+  "officialUrl": "https://www.iimidr.ac.in"
+ },
+ {
+  "id": "tnea",
+  "name": "TNEA (Tamil Nadu engineering admissions, marks-based)",
+  "conductingBody": "Govt of Tamil Nadu",
+  "typicalMonths": [
+   "May",
+   "Jun"
+  ],
+  "eligibility": "Class 12 with PCM, TN eligibility",
+  "officialUrl": "https://www.tneaonline.org"
+ },
+ {
+  "id": "viteee",
+  "name": "VITEEE",
+  "conductingBody": "VIT",
+  "typicalMonths": [
+   "Apr"
+  ],
+  "eligibility": "Class 12 with PCM/PCB",
+  "officialUrl": "https://viteee.vit.ac.in"
+ },
+ {
+  "id": "ca-foundation",
+  "name": "CA Foundation",
+  "conductingBody": "ICAI",
+  "typicalMonths": [
+   "Jan",
+   "May",
+   "Sep"
+  ],
+  "eligibility": "After Class 12",
+  "officialUrl": "https://www.icai.org"
+ },
+ {
+  "id": "upsc-cse",
+  "name": "UPSC Civil Services",
+  "conductingBody": "UPSC",
+  "typicalMonths": [
+   "May",
+   "Jun"
+  ],
+  "eligibility": "Any graduate, age 21+",
+  "officialUrl": "https://upsc.gov.in"
+ },
+ {
+  "id": "iiser-iat",
+  "name": "IISER Aptitude Test",
+  "conductingBody": "IISERs",
+  "typicalMonths": [
+   "Jun"
+  ],
+  "eligibility": "Class 12 with science",
+  "officialUrl": "https://iiseradmission.in"
+ }
+]

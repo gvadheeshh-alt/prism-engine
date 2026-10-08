@@ -1,0 +1,189 @@
+[
+ {
+  "id": "priya",
+  "title": "Priya, Class 12, Madurai",
+  "blurb": "Loves maths and art. Parents want her to become a doctor. Tight family budget.",
+  "student": {
+   "studentId": "demo-priya",
+   "familyCode": "DEMO01",
+   "name": "Priya",
+   "completedAt": "2026-10-01T10:00:00",
+   "dims": {
+    "realistic": 0.45,
+    "investigative": 0.7,
+    "artistic": 0.85,
+    "social": 0.55,
+    "enterprising": 0.45,
+    "conventional": 0.4,
+    "numerical": 0.8,
+    "logical": 0.75,
+    "verbal": 0.6,
+    "spatial": 0.85,
+    "creative": 0.9,
+    "openness": 0.85,
+    "conscientiousness": 0.7,
+    "collaboration": 0.6,
+    "riskTolerance": 0.7
+   },
+   "context": {
+    "level": "class12",
+    "stream": "sciencePcmb",
+    "marksBand": "b75to90",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "mobility": "india",
+    "dreamCareerIds": [
+     "architect",
+     "ux-designer",
+     "product-designer"
+    ],
+    "gender": "female",
+    "category": "obc"
+   }
+  },
+  "parent": {
+   "familyCode": "DEMO01",
+   "annualIncomeINR": 300000,
+   "savingsForEducationINR": 60000,
+   "maxMonthlyEmiINR": 6000,
+   "expectedSalaryAt25INR": 1200000,
+   "loanComfort": "moderate",
+   "riskAppetite": 0.15,
+   "preferredCareerIds": [
+    "doctor-mbbs",
+    "civil-services",
+    "pharmacist"
+   ],
+   "preferredYearsToEarning": 5,
+   "relocationAcceptance": "state",
+   "category": "obc",
+   "childGender": "female",
+   "firstGenerationLearner": true,
+   "completedAt": "2026-10-01T10:30:00"
+  }
+ },
+ {
+  "id": "arjun",
+  "title": "Arjun, Class 10, Coimbatore",
+  "blurb": "Builds gadgets at home, loves design. Choosing his Class 11 stream.",
+  "student": {
+   "studentId": "demo-arjun",
+   "familyCode": "DEMO02",
+   "name": "Arjun",
+   "completedAt": "2026-10-01T11:00:00",
+   "dims": {
+    "realistic": 0.9,
+    "investigative": 0.65,
+    "artistic": 0.7,
+    "social": 0.35,
+    "enterprising": 0.55,
+    "conventional": 0.45,
+    "numerical": 0.7,
+    "logical": 0.7,
+    "verbal": 0.45,
+    "spatial": 0.85,
+    "creative": 0.8,
+    "openness": 0.75,
+    "conscientiousness": 0.6,
+    "collaboration": 0.6,
+    "riskTolerance": 0.55
+   },
+   "context": {
+    "level": "class10",
+    "stream": "undecided",
+    "marksBand": "b60to75",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "mobility": "state",
+    "dreamCareerIds": [
+     "robotics-engineer",
+     "ev-engineer",
+     "game-developer"
+    ],
+    "gender": "male",
+    "category": "general"
+   }
+  },
+  "parent": {
+   "familyCode": "DEMO02",
+   "annualIncomeINR": 600000,
+   "savingsForEducationINR": 200000,
+   "maxMonthlyEmiINR": 10000,
+   "expectedSalaryAt25INR": 600000,
+   "loanComfort": "moderate",
+   "riskAppetite": 0.35,
+   "preferredCareerIds": [
+    "mechanical-engineer",
+    "software-engineer"
+   ],
+   "preferredYearsToEarning": 7,
+   "relocationAcceptance": "state",
+   "category": "general",
+   "childGender": "male",
+   "firstGenerationLearner": false,
+   "completedAt": "2026-10-01T11:30:00"
+  }
+ },
+ {
+  "id": "sneha",
+  "title": "Sneha, B.Com 2nd year, Chennai",
+  "blurb": "Wants to switch into data science. Moderate budget.",
+  "student": {
+   "studentId": "demo-sneha",
+   "familyCode": "DEMO03",
+   "name": "Sneha",
+   "completedAt": "2026-10-01T12:00:00",
+   "dims": {
+    "realistic": 0.2,
+    "investigative": 0.75,
+    "artistic": 0.35,
+    "social": 0.5,
+    "enterprising": 0.55,
+    "conventional": 0.75,
+    "numerical": 0.8,
+    "logical": 0.75,
+    "verbal": 0.7,
+    "spatial": 0.4,
+    "creative": 0.5,
+    "openness": 0.75,
+    "conscientiousness": 0.8,
+    "collaboration": 0.65,
+    "riskTolerance": 0.45
+   },
+   "context": {
+    "level": "ug",
+    "stream": "commerce",
+    "marksBand": "b75to90",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "mobility": "india",
+    "dreamCareerIds": [
+     "data-scientist",
+     "data-analyst",
+     "product-manager"
+    ],
+    "gender": "female",
+    "category": "general"
+   }
+  },
+  "parent": {
+   "familyCode": "DEMO03",
+   "annualIncomeINR": 900000,
+   "savingsForEducationINR": 300000,
+   "maxMonthlyEmiINR": 12000,
+   "expectedSalaryAt25INR": 800000,
+   "loanComfort": "moderate",
+   "riskAppetite": 0.4,
+   "preferredCareerIds": [
+    "chartered-accountant",
+    "financial-analyst"
+   ],
+   "preferredYearsToEarning": 2,
+   "relocationAcceptance": "india",
+   "category": "general",
+   "childGender": "female",
+   "firstGenerationLearner": false,
+   "completedAt": "2026-10-01T12:30:00"
+  }
+ }
+]

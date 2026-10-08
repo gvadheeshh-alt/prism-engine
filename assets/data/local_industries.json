@@ -1,0 +1,455 @@
+[
+ {
+  "district": "Chennai",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Automotive & EV manufacturing (Sriperumbudur–Oragadam belt)",
+    "description": "One of India's largest auto clusters.",
+    "relatedCareerIds": [
+     "ev-engineer",
+     "mechanical-engineer",
+     "robotics-engineer"
+    ],
+    "ideas": [
+     {
+      "title": "Battery health monitor for e-autos",
+      "problem": "Auto drivers can't see when their battery is degrading.",
+      "strengths": [
+       "numerical",
+       "logical",
+       "realistic"
+      ]
+     },
+     {
+      "title": "Low-cost line-follower robot for small workshops",
+      "problem": "Small suppliers move parts by hand.",
+      "strengths": [
+       "realistic",
+       "spatial",
+       "creative"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Film, VFX & media (Kollywood)",
+    "description": "Large film and VFX studio presence.",
+    "relatedCareerIds": [
+     "animation-vfx-artist",
+     "journalist-content",
+     "game-developer"
+    ],
+    "ideas": [
+     {
+      "title": "Tamil folk-tale animated shorts for schools",
+      "problem": "Few local-language learning videos exist.",
+      "strengths": [
+       "artistic",
+       "creative",
+       "verbal"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Healthcare & medical tourism",
+    "description": "Major hospital hub.",
+    "relatedCareerIds": [
+     "doctor-mbbs",
+     "biomedical-engineer",
+     "nurse"
+    ],
+    "ideas": [
+     {
+      "title": "Medicine-reminder pill box for elders",
+      "problem": "Elderly patients miss doses.",
+      "strengths": [
+       "realistic",
+       "social",
+       "creative"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Coimbatore",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Pumps, motors & foundries",
+    "description": "Known as the pump city of India.",
+    "relatedCareerIds": [
+     "mechanical-engineer",
+     "cnc-automation-technician",
+     "robotics-engineer"
+    ],
+    "ideas": [
+     {
+      "title": "Solar-powered smart pump controller",
+      "problem": "Farm pumps waste power and water.",
+      "strengths": [
+       "realistic",
+       "numerical",
+       "logical"
+      ]
+     },
+     {
+      "title": "3D-printed jigs for local foundries",
+      "problem": "Small foundries make jigs slowly by hand.",
+      "strengths": [
+       "spatial",
+       "creative",
+       "realistic"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Agriculture research (TNAU)",
+    "description": "Home to the state agricultural university.",
+    "relatedCareerIds": [
+     "agritech-specialist",
+     "food-technologist"
+    ],
+    "ideas": [
+     {
+      "title": "Coconut-tree disease photo checker",
+      "problem": "Farmers spot leaf disease too late.",
+      "strengths": [
+       "investigative",
+       "logical",
+       "social"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Tiruppur",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Knitwear export cluster",
+    "description": "India's knitwear capital.",
+    "relatedCareerIds": [
+     "textile-technologist",
+     "fashion-designer",
+     "data-analyst"
+    ],
+    "ideas": [
+     {
+      "title": "Fabric-waste upcycling marketplace",
+      "problem": "Tons of cutting waste are burnt or dumped.",
+      "strengths": [
+       "enterprising",
+       "creative",
+       "social"
+      ]
+     },
+     {
+      "title": "Water-recycling monitor for dyeing units",
+      "problem": "Dye effluent pollutes the Noyyal river.",
+      "strengths": [
+       "investigative",
+       "numerical",
+       "realistic"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Madurai",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Temple tourism & handicrafts",
+    "description": "Major pilgrimage and heritage city.",
+    "relatedCareerIds": [
+     "product-designer",
+     "digital-marketer",
+     "entrepreneur"
+    ],
+    "ideas": [
+     {
+      "title": "3D heritage walk app for Meenakshi temple streets",
+      "problem": "Visitors miss the history around them.",
+      "strengths": [
+       "artistic",
+       "spatial",
+       "verbal"
+      ]
+     },
+     {
+      "title": "Online store for Sungudi saree weavers",
+      "problem": "Weavers depend on middlemen.",
+      "strengths": [
+       "enterprising",
+       "creative",
+       "social"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Healthcare (eye care & hospitals)",
+    "description": "Known for large-scale eye-care models.",
+    "relatedCareerIds": [
+     "doctor-mbbs",
+     "biomedical-engineer",
+     "nurse"
+    ],
+    "ideas": [
+     {
+      "title": "Phone-based vision screening kiosk for rural schools",
+      "problem": "Many children never get eye tests.",
+      "strengths": [
+       "investigative",
+       "social",
+       "creative"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Agriculture & jasmine trade",
+    "description": "Madurai malli (jasmine) is GI-tagged.",
+    "relatedCareerIds": [
+     "agritech-specialist",
+     "food-technologist"
+    ],
+    "ideas": [
+     {
+      "title": "Cool-box to keep jasmine fresh longer",
+      "problem": "Flowers wilt before reaching markets.",
+      "strengths": [
+       "realistic",
+       "investigative",
+       "creative"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Thanjavur",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Cauvery delta agriculture",
+    "description": "The rice bowl of Tamil Nadu.",
+    "relatedCareerIds": [
+     "agritech-specialist",
+     "climate-scientist",
+     "food-technologist"
+    ],
+    "ideas": [
+     {
+      "title": "Flood alert SMS for paddy farmers",
+      "problem": "Sudden floods damage standing crops.",
+      "strengths": [
+       "investigative",
+       "social",
+       "logical"
+      ]
+     },
+     {
+      "title": "Paddy-straw packaging material",
+      "problem": "Farmers burn straw after harvest.",
+      "strengths": [
+       "creative",
+       "realistic",
+       "enterprising"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Thoothukkudi",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Port, fisheries & salt pans",
+    "description": "Major port and coastal fisheries.",
+    "relatedCareerIds": [
+     "renewable-energy-engineer",
+     "climate-scientist",
+     "food-technologist"
+    ],
+    "ideas": [
+     {
+      "title": "Solar fish dryer for fisherwomen",
+      "problem": "Open-air drying spoils fish in rain.",
+      "strengths": [
+       "realistic",
+       "creative",
+       "social"
+      ]
+     },
+     {
+      "title": "Boat GPS safety beacon",
+      "problem": "Fishers stray across maritime borders.",
+      "strengths": [
+       "realistic",
+       "logical",
+       "numerical"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Krishnagiri",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "EV & two-wheeler manufacturing (Hosur)",
+    "description": "Large EV and two-wheeler plants.",
+    "relatedCareerIds": [
+     "ev-engineer",
+     "robotics-engineer",
+     "cnc-automation-technician"
+    ],
+    "ideas": [
+     {
+      "title": "Battery-swap station locator for e-scooters",
+      "problem": "Riders worry about running out of charge.",
+      "strengths": [
+       "logical",
+       "numerical",
+       "enterprising"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Mango farming",
+    "description": "Known for mango orchards.",
+    "relatedCareerIds": [
+     "agritech-specialist",
+     "food-technologist"
+    ],
+    "ideas": [
+     {
+      "title": "Mango ripeness sensor",
+      "problem": "Fruit is picked at the wrong time.",
+      "strengths": [
+       "investigative",
+       "realistic",
+       "numerical"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "Kancheepuram",
+  "state": "Tamil Nadu",
+  "clusters": [
+   {
+    "name": "Electronics manufacturing (Sriperumbudur)",
+    "description": "Phone and electronics assembly plants.",
+    "relatedCareerIds": [
+     "vlsi-engineer",
+     "robotics-engineer",
+     "cnc-automation-technician"
+    ],
+    "ideas": [
+     {
+      "title": "E-waste collection tracker for schools",
+      "problem": "Old phones end up in landfills.",
+      "strengths": [
+       "social",
+       "enterprising",
+       "logical"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Silk weaving",
+    "description": "GI-tagged Kanchipuram silk.",
+    "relatedCareerIds": [
+     "fashion-designer",
+     "textile-technologist",
+     "digital-marketer"
+    ],
+    "ideas": [
+     {
+      "title": "Silk authenticity checker app",
+      "problem": "Buyers can't tell real silk from fake.",
+      "strengths": [
+       "investigative",
+       "creative",
+       "verbal"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "district": "*",
+  "state": "*",
+  "clusters": [
+   {
+    "name": "Local schools & community",
+    "description": "Every district has schools, clinics and small businesses.",
+    "relatedCareerIds": [
+     "teacher",
+     "entrepreneur",
+     "data-analyst"
+    ],
+    "ideas": [
+     {
+      "title": "Bus-arrival alert for your school",
+      "problem": "Students wait long at bus stops.",
+      "strengths": [
+       "logical",
+       "numerical",
+       "social"
+      ]
+     },
+     {
+      "title": "Waste-segregation game for kids",
+      "problem": "Households mix wet and dry waste.",
+      "strengths": [
+       "creative",
+       "artistic",
+       "social"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Agriculture & food",
+    "description": "Most districts have farms and food processing.",
+    "relatedCareerIds": [
+     "agritech-specialist",
+     "food-technologist"
+    ],
+    "ideas": [
+     {
+      "title": "Soil-moisture sensor with SMS alerts",
+      "problem": "Farmers over-water crops.",
+      "strengths": [
+       "realistic",
+       "investigative",
+       "numerical"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,31 @@
+# Flutter / Dart build output
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Editors
+.idea/
+*.iml
+
+# Android: machine-specific settings and signing keys
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# Secrets
+.env
+*.env
+
+# Python tools
+__pycache__/
+
+# Operating system files
+.DS_Store
+Thumbs.db

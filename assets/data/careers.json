@@ -1,0 +1,4269 @@
+[
+ {
+  "id": "software-engineer",
+  "name": "Software engineer",
+  "cluster": "engineeringTech",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Designs, builds and maintains software products and systems.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.7,
+   "artistic": 0.3,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.6,
+   "numerical": 0.7,
+   "logical": 0.8,
+   "verbal": 0.5,
+   "spatial": 0.5,
+   "creative": 0.5,
+   "openness": 0.6,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.79,
+   "artistic": 0.51,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.72,
+   "numerical": 0.79,
+   "logical": 0.86,
+   "verbal": 0.65,
+   "spatial": 0.65,
+   "creative": 0.65,
+   "openness": 0.72,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee",
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee",
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 600000,
+   "year5INR": 1400000,
+   "year10INR": 2800000
+  },
+  "market": {
+   "jobVelocity": 8,
+   "disruptionIndex": 0.45,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "viteee",
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "ai-ml-engineer",
+  "name": "AI / ML engineer",
+  "cluster": "dataAi",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Builds machine-learning models and AI-powered products.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.9,
+   "artistic": 0.3,
+   "social": 0.2,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.9,
+   "logical": 0.9,
+   "verbal": 0.5,
+   "spatial": 0.5,
+   "creative": 0.6,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.5,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.93,
+   "artistic": 0.51,
+   "social": 0.44,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.93,
+   "logical": 0.93,
+   "verbal": 0.65,
+   "spatial": 0.65,
+   "creative": 0.72,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.65,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "jee-advanced",
+     "viteee"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "jee-advanced",
+     "viteee"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 800000,
+   "year5INR": 2000000,
+   "year10INR": 4000000
+  },
+  "market": {
+   "jobVelocity": 32,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 14,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "jee-advanced",
+   "viteee"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "cybersecurity-analyst",
+  "name": "Cybersecurity analyst",
+  "cluster": "engineeringTech",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Protects organisations from digital attacks and data breaches.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.8,
+   "artistic": 0.2,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.7,
+   "numerical": 0.7,
+   "logical": 0.9,
+   "verbal": 0.5,
+   "spatial": 0.5,
+   "creative": 0.5,
+   "openness": 0.6,
+   "conscientiousness": 0.8,
+   "collaboration": 0.5,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.86,
+   "artistic": 0.44,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.79,
+   "numerical": 0.79,
+   "logical": 0.93,
+   "verbal": 0.65,
+   "spatial": 0.65,
+   "creative": 0.65,
+   "openness": 0.72,
+   "conscientiousness": 0.86,
+   "collaboration": 0.65,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 600000,
+   "year5INR": 1500000,
+   "year10INR": 3000000
+  },
+  "market": {
+   "jobVelocity": 22,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 12,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "viteee"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "robotics-engineer",
+  "name": "Robotics engineer",
+  "cluster": "engineeringTech",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Designs robots and automation systems for factories, hospitals and farms.",
+  "requirement": {
+   "realistic": 0.8,
+   "investigative": 0.8,
+   "artistic": 0.4,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.8,
+   "logical": 0.8,
+   "verbal": 0.4,
+   "spatial": 0.8,
+   "creative": 0.7,
+   "openness": 0.7,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.86,
+   "investigative": 0.86,
+   "artistic": 0.58,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.86,
+   "logical": 0.86,
+   "verbal": 0.58,
+   "spatial": 0.86,
+   "creative": 0.79,
+   "openness": 0.79,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee",
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee",
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 1200000,
+   "year10INR": 2500000
+  },
+  "market": {
+   "jobVelocity": 20,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 11,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.85,
+    "madurai": 0.35,
+    "tiruppur": 0.5,
+    "bengaluru": 0.6,
+    "hyderabad": 0.5,
+    "pune": 0.9,
+    "mumbai": 0.5,
+    "delhi-ncr": 0.6,
+    "kolkata": 0.35,
+    "ahmedabad": 0.7,
+    "kochi": 0.3,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "viteee",
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "ev-engineer",
+  "name": "Electric vehicle engineer",
+  "cluster": "engineeringTech",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Works on batteries, motors and power electronics for EVs.",
+  "requirement": {
+   "realistic": 0.8,
+   "investigative": 0.8,
+   "artistic": 0.3,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.8,
+   "logical": 0.7,
+   "verbal": 0.4,
+   "spatial": 0.7,
+   "creative": 0.6,
+   "openness": 0.7,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.86,
+   "investigative": 0.86,
+   "artistic": 0.51,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.86,
+   "logical": 0.79,
+   "verbal": 0.58,
+   "spatial": 0.79,
+   "creative": 0.72,
+   "openness": 0.79,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee",
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "viteee",
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 1200000,
+   "year10INR": 2400000
+  },
+  "market": {
+   "jobVelocity": 26,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 12,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.85,
+    "madurai": 0.35,
+    "tiruppur": 0.5,
+    "bengaluru": 0.6,
+    "hyderabad": 0.5,
+    "pune": 0.9,
+    "mumbai": 0.5,
+    "delhi-ncr": 0.6,
+    "kolkata": 0.35,
+    "ahmedabad": 0.7,
+    "kochi": 0.3,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "viteee",
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "mechanical-engineer",
+  "name": "Mechanical engineer",
+  "cluster": "engineeringTech",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Designs and improves machines, engines and manufacturing processes.",
+  "requirement": {
+   "realistic": 0.8,
+   "investigative": 0.7,
+   "artistic": 0.3,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.6,
+   "numerical": 0.7,
+   "logical": 0.7,
+   "verbal": 0.4,
+   "spatial": 0.8,
+   "creative": 0.5,
+   "openness": 0.5,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.86,
+   "investigative": 0.79,
+   "artistic": 0.51,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.72,
+   "numerical": 0.79,
+   "logical": 0.79,
+   "verbal": 0.58,
+   "spatial": 0.86,
+   "creative": 0.65,
+   "openness": 0.65,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 800000,
+   "year10INR": 1600000
+  },
+  "market": {
+   "jobVelocity": 4,
+   "disruptionIndex": 0.4,
+   "salaryGrowthPct": 6,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.85,
+    "madurai": 0.35,
+    "tiruppur": 0.5,
+    "bengaluru": 0.6,
+    "hyderabad": 0.5,
+    "pune": 0.9,
+    "mumbai": 0.5,
+    "delhi-ncr": 0.6,
+    "kolkata": 0.35,
+    "ahmedabad": 0.7,
+    "kochi": 0.3,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "civil-engineer",
+  "name": "Civil engineer",
+  "cluster": "engineeringTech",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Plans and builds roads, bridges, buildings and water systems.",
+  "requirement": {
+   "realistic": 0.8,
+   "investigative": 0.6,
+   "artistic": 0.3,
+   "social": 0.4,
+   "enterprising": 0.4,
+   "conventional": 0.7,
+   "numerical": 0.7,
+   "logical": 0.6,
+   "verbal": 0.4,
+   "spatial": 0.8,
+   "creative": 0.4,
+   "openness": 0.4,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.86,
+   "investigative": 0.72,
+   "artistic": 0.51,
+   "social": 0.58,
+   "enterprising": 0.58,
+   "conventional": 0.79,
+   "numerical": 0.79,
+   "logical": 0.72,
+   "verbal": 0.58,
+   "spatial": 0.86,
+   "creative": 0.58,
+   "openness": 0.58,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 350000,
+   "year5INR": 700000,
+   "year10INR": 1400000
+  },
+  "market": {
+   "jobVelocity": 6,
+   "disruptionIndex": 0.35,
+   "salaryGrowthPct": 6,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.4,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.7,
+    "mumbai": 0.9,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.5,
+    "ahmedabad": 0.6,
+    "kochi": 0.4,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "vlsi-engineer",
+  "name": "Electronics / VLSI chip engineer",
+  "cluster": "engineeringTech",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Designs semiconductor chips and electronic systems.",
+  "requirement": {
+   "realistic": 0.6,
+   "investigative": 0.9,
+   "artistic": 0.2,
+   "social": 0.2,
+   "enterprising": 0.3,
+   "conventional": 0.6,
+   "numerical": 0.9,
+   "logical": 0.8,
+   "verbal": 0.4,
+   "spatial": 0.7,
+   "creative": 0.5,
+   "openness": 0.6,
+   "conscientiousness": 0.8,
+   "collaboration": 0.5,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.72,
+   "investigative": 0.93,
+   "artistic": 0.44,
+   "social": 0.44,
+   "enterprising": 0.51,
+   "conventional": 0.72,
+   "numerical": 0.93,
+   "logical": 0.86,
+   "verbal": 0.58,
+   "spatial": 0.79,
+   "creative": 0.65,
+   "openness": 0.72,
+   "conscientiousness": 0.86,
+   "collaboration": 0.65,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "jee-advanced",
+     "viteee"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "jee-advanced",
+     "viteee"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 600000,
+   "year5INR": 1400000,
+   "year10INR": 2800000
+  },
+  "market": {
+   "jobVelocity": 18,
+   "disruptionIndex": 0.25,
+   "salaryGrowthPct": 11,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "jee-advanced",
+   "viteee"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "renewable-energy-engineer",
+  "name": "Renewable energy engineer",
+  "cluster": "engineeringTech",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Designs solar, wind and storage systems.",
+  "requirement": {
+   "realistic": 0.7,
+   "investigative": 0.8,
+   "artistic": 0.3,
+   "social": 0.4,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.7,
+   "logical": 0.7,
+   "verbal": 0.4,
+   "spatial": 0.6,
+   "creative": 0.6,
+   "openness": 0.7,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.79,
+   "investigative": 0.86,
+   "artistic": 0.51,
+   "social": 0.58,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.79,
+   "logical": 0.79,
+   "verbal": 0.58,
+   "spatial": 0.72,
+   "creative": 0.72,
+   "openness": 0.79,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 450000,
+   "year5INR": 1000000,
+   "year10INR": 2000000
+  },
+  "market": {
+   "jobVelocity": 24,
+   "disruptionIndex": 0.15,
+   "salaryGrowthPct": 11,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.6,
+    "madurai": 0.5,
+    "tiruppur": 0.4,
+    "bengaluru": 0.6,
+    "hyderabad": 0.5,
+    "pune": 0.5,
+    "mumbai": 0.5,
+    "delhi-ncr": 0.6,
+    "kolkata": 0.3,
+    "ahmedabad": 0.8,
+    "kochi": 0.3,
+    "abroad": 0.5
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "biomedical-engineer",
+  "name": "Biomedical engineer",
+  "cluster": "engineeringTech",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb",
+   "sciencePcb"
+  ],
+  "summary": "Designs medical devices, implants and health-tech used by doctors.",
+  "requirement": {
+   "realistic": 0.6,
+   "investigative": 0.8,
+   "artistic": 0.5,
+   "social": 0.6,
+   "enterprising": 0.3,
+   "conventional": 0.5,
+   "numerical": 0.7,
+   "logical": 0.7,
+   "verbal": 0.5,
+   "spatial": 0.7,
+   "creative": 0.7,
+   "openness": 0.7,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.72,
+   "investigative": 0.86,
+   "artistic": 0.65,
+   "social": 0.72,
+   "enterprising": 0.51,
+   "conventional": 0.65,
+   "numerical": 0.79,
+   "logical": 0.79,
+   "verbal": 0.65,
+   "spatial": 0.79,
+   "creative": 0.79,
+   "openness": 0.79,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea",
+     "viteee"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "tnea",
+     "viteee"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 900000,
+   "year10INR": 1800000
+  },
+  "market": {
+   "jobVelocity": 15,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 10,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.7,
+    "madurai": 0.7,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.6,
+    "mumbai": 0.8,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.7,
+    "ahmedabad": 0.6,
+    "kochi": 0.7,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "tnea",
+   "viteee"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "data-analyst",
+  "name": "Data analyst",
+  "cluster": "dataAi",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Turns business data into dashboards and decisions.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.7,
+   "artistic": 0.2,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.8,
+   "numerical": 0.8,
+   "logical": 0.8,
+   "verbal": 0.6,
+   "spatial": 0.4,
+   "creative": 0.4,
+   "openness": 0.6,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.79,
+   "artistic": 0.44,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.86,
+   "numerical": 0.86,
+   "logical": 0.86,
+   "verbal": 0.72,
+   "spatial": 0.58,
+   "creative": 0.58,
+   "openness": 0.72,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Sc Statistics / B.Com, government college",
+    "tier": "govt",
+    "years": 3,
+    "tuitionPerYearINR": 15000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "online",
+    "label": "Online analytics certification + portfolio",
+    "tier": "online",
+    "years": 1,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 0,
+    "coachingINR": 0,
+    "examFeesINR": 0,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 1000000,
+   "year10INR": 2000000
+  },
+  "market": {
+   "jobVelocity": 20,
+   "disruptionIndex": 0.35,
+   "salaryGrowthPct": 10,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "data-scientist",
+  "name": "Data scientist",
+  "cluster": "dataAi",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Builds statistical and ML models to answer business questions.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.9,
+   "artistic": 0.3,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.6,
+   "numerical": 0.9,
+   "logical": 0.9,
+   "verbal": 0.6,
+   "spatial": 0.5,
+   "creative": 0.6,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.5,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.93,
+   "artistic": 0.51,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.72,
+   "numerical": 0.93,
+   "logical": 0.93,
+   "verbal": 0.72,
+   "spatial": 0.65,
+   "creative": 0.72,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.65,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Sc Data Science / Statistics, government college",
+    "tier": "govt",
+    "years": 3,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Sc Data Science, private college",
+    "tier": "private",
+    "years": 3,
+    "tuitionPerYearINR": 200000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "online",
+    "label": "Online BS in Data Science (study from home)",
+    "tier": "online",
+    "years": 4,
+    "tuitionPerYearINR": 75000,
+    "livingPerYearINR": 0,
+    "coachingINR": 0,
+    "examFeesINR": 3000,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 700000,
+   "year5INR": 1600000,
+   "year10INR": 3200000
+  },
+  "market": {
+   "jobVelocity": 25,
+   "disruptionIndex": 0.25,
+   "salaryGrowthPct": 12,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "product-manager",
+  "name": "Product manager",
+  "cluster": "dataAi",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Decides what a tech product should do and leads the team building it.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.6,
+   "artistic": 0.4,
+   "social": 0.6,
+   "enterprising": 0.8,
+   "conventional": 0.5,
+   "numerical": 0.6,
+   "logical": 0.7,
+   "verbal": 0.8,
+   "spatial": 0.4,
+   "creative": 0.6,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.8,
+   "riskTolerance": 0.7
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.72,
+   "artistic": 0.58,
+   "social": 0.72,
+   "enterprising": 0.86,
+   "conventional": 0.65,
+   "numerical": 0.72,
+   "logical": 0.79,
+   "verbal": 0.86,
+   "spatial": 0.58,
+   "creative": 0.72,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.86,
+   "riskTolerance": 0.79
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech, then MBA at a government institute",
+    "tier": "govt",
+    "years": 6,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 50000,
+    "examFeesINR": 5000,
+    "entryExamIds": [
+     "jee-main",
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "Degree, then MBA at a private institute",
+    "tier": "private",
+    "years": 6,
+    "tuitionPerYearINR": 450000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 5000,
+    "entryExamIds": [
+     "jee-main",
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 1000000,
+   "year5INR": 2200000,
+   "year10INR": 4500000
+  },
+  "market": {
+   "jobVelocity": 12,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 12,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "doctor-mbbs",
+  "name": "Doctor (MBBS)",
+  "cluster": "healthMedicine",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Diagnoses and treats patients; can specialise after MD/MS.",
+  "requirement": {
+   "realistic": 0.5,
+   "investigative": 0.9,
+   "artistic": 0.2,
+   "social": 0.8,
+   "enterprising": 0.3,
+   "conventional": 0.5,
+   "numerical": 0.6,
+   "logical": 0.7,
+   "verbal": 0.6,
+   "spatial": 0.5,
+   "creative": 0.4,
+   "openness": 0.6,
+   "conscientiousness": 0.9,
+   "collaboration": 0.7,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.65,
+   "investigative": 0.93,
+   "artistic": 0.44,
+   "social": 0.86,
+   "enterprising": 0.51,
+   "conventional": 0.65,
+   "numerical": 0.72,
+   "logical": 0.79,
+   "verbal": 0.72,
+   "spatial": 0.65,
+   "creative": 0.58,
+   "openness": 0.72,
+   "conscientiousness": 0.93,
+   "collaboration": 0.79,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "MBBS at a government medical college",
+    "tier": "govt",
+    "years": 6,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 80000,
+    "coachingINR": 150000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "MBBS at a private medical college",
+    "tier": "private",
+    "years": 6,
+    "tuitionPerYearINR": 1200000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 150000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   },
+   {
+    "id": "abroad",
+    "label": "MBBS abroad (FMGE/NExT required on return)",
+    "tier": "private",
+    "years": 6,
+    "tuitionPerYearINR": 500000,
+    "livingPerYearINR": 250000,
+    "coachingINR": 50000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 800000,
+   "year5INR": 1500000,
+   "year10INR": 3500000
+  },
+  "market": {
+   "jobVelocity": 10,
+   "disruptionIndex": 0.1,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.7,
+    "madurai": 0.7,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.6,
+    "mumbai": 0.8,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.7,
+    "ahmedabad": 0.6,
+    "kochi": 0.7,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "neet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "dentist",
+  "name": "Dentist (BDS)",
+  "cluster": "healthMedicine",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Diagnoses and treats teeth and oral health.",
+  "requirement": {
+   "realistic": 0.7,
+   "investigative": 0.8,
+   "artistic": 0.4,
+   "social": 0.6,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.5,
+   "logical": 0.6,
+   "verbal": 0.5,
+   "spatial": 0.7,
+   "creative": 0.4,
+   "openness": 0.5,
+   "conscientiousness": 0.9,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.79,
+   "investigative": 0.86,
+   "artistic": 0.58,
+   "social": 0.72,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.65,
+   "logical": 0.72,
+   "verbal": 0.65,
+   "spatial": 0.79,
+   "creative": 0.58,
+   "openness": 0.65,
+   "conscientiousness": 0.93,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BDS at a government college",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 80000,
+    "coachingINR": 100000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "BDS at a private college",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 500000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 100000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 800000,
+   "year10INR": 1600000
+  },
+  "market": {
+   "jobVelocity": 4,
+   "disruptionIndex": 0.1,
+   "salaryGrowthPct": 6,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.7,
+    "madurai": 0.7,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.6,
+    "mumbai": 0.8,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.7,
+    "ahmedabad": 0.6,
+    "kochi": 0.7,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "neet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "nurse",
+  "name": "Nurse",
+  "cluster": "healthMedicine",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Provides patient care in hospitals; strong demand in India and abroad.",
+  "requirement": {
+   "realistic": 0.5,
+   "investigative": 0.6,
+   "artistic": 0.2,
+   "social": 0.9,
+   "enterprising": 0.3,
+   "conventional": 0.6,
+   "numerical": 0.5,
+   "logical": 0.5,
+   "verbal": 0.6,
+   "spatial": 0.4,
+   "creative": 0.3,
+   "openness": 0.5,
+   "conscientiousness": 0.8,
+   "collaboration": 0.9,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.65,
+   "investigative": 0.72,
+   "artistic": 0.44,
+   "social": 0.93,
+   "enterprising": 0.51,
+   "conventional": 0.72,
+   "numerical": 0.65,
+   "logical": 0.65,
+   "verbal": 0.72,
+   "spatial": 0.58,
+   "creative": 0.51,
+   "openness": 0.65,
+   "conscientiousness": 0.86,
+   "collaboration": 0.93,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Sc Nursing, government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 20000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Sc Nursing, private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 120000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": [
+     "neet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 500000,
+   "year10INR": 900000
+  },
+  "market": {
+   "jobVelocity": 14,
+   "disruptionIndex": 0.1,
+   "salaryGrowthPct": 7,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.7,
+    "madurai": 0.7,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.6,
+    "mumbai": 0.8,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.7,
+    "ahmedabad": 0.6,
+    "kochi": 0.7,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "neet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "pharmacist",
+  "name": "Pharmacist",
+  "cluster": "healthMedicine",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcb",
+   "sciencePcmb",
+   "sciencePcm"
+  ],
+  "summary": "Prepares and dispenses medicines; works in hospitals and pharma.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.7,
+   "artistic": 0.2,
+   "social": 0.5,
+   "enterprising": 0.4,
+   "conventional": 0.8,
+   "numerical": 0.6,
+   "logical": 0.6,
+   "verbal": 0.5,
+   "spatial": 0.4,
+   "creative": 0.3,
+   "openness": 0.5,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.79,
+   "artistic": 0.44,
+   "social": 0.65,
+   "enterprising": 0.58,
+   "conventional": 0.86,
+   "numerical": 0.72,
+   "logical": 0.72,
+   "verbal": 0.65,
+   "spatial": 0.58,
+   "creative": 0.51,
+   "openness": 0.65,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Pharm, government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": [
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Pharm, private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 120000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": [
+     "tnea"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 500000,
+   "year10INR": 900000
+  },
+  "market": {
+   "jobVelocity": 8,
+   "disruptionIndex": 0.3,
+   "salaryGrowthPct": 6,
+   "regionalDemand": {
+    "chennai": 0.6,
+    "coimbatore": 0.4,
+    "madurai": 0.3,
+    "tiruppur": 0.2,
+    "bengaluru": 0.8,
+    "hyderabad": 1,
+    "pune": 0.6,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.5,
+    "kolkata": 0.4,
+    "ahmedabad": 0.8,
+    "kochi": 0.3,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "tnea"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "physiotherapist",
+  "name": "Physiotherapist",
+  "cluster": "healthMedicine",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Helps patients recover movement after injury or surgery.",
+  "requirement": {
+   "realistic": 0.7,
+   "investigative": 0.6,
+   "artistic": 0.3,
+   "social": 0.8,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.5,
+   "logical": 0.5,
+   "verbal": 0.6,
+   "spatial": 0.6,
+   "creative": 0.4,
+   "openness": 0.6,
+   "conscientiousness": 0.8,
+   "collaboration": 0.8,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.79,
+   "investigative": 0.72,
+   "artistic": 0.51,
+   "social": 0.86,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.65,
+   "logical": 0.65,
+   "verbal": 0.72,
+   "spatial": 0.72,
+   "creative": 0.58,
+   "openness": 0.72,
+   "conscientiousness": 0.86,
+   "collaboration": 0.86,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BPT, government college",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 70000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   },
+   {
+    "id": "private",
+    "label": "BPT, private college",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 150000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 600000,
+   "year10INR": 1100000
+  },
+  "market": {
+   "jobVelocity": 12,
+   "disruptionIndex": 0.1,
+   "salaryGrowthPct": 8,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.7,
+    "madurai": 0.7,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.6,
+    "mumbai": 0.8,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.7,
+    "ahmedabad": 0.6,
+    "kochi": 0.7,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [],
+  "illustrative": true
+ },
+ {
+  "id": "clinical-psychologist",
+  "name": "Clinical psychologist",
+  "cluster": "healthMedicine",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Assesses and treats mental-health conditions.",
+  "requirement": {
+   "realistic": 0.2,
+   "investigative": 0.8,
+   "artistic": 0.5,
+   "social": 0.9,
+   "enterprising": 0.3,
+   "conventional": 0.4,
+   "numerical": 0.5,
+   "logical": 0.7,
+   "verbal": 0.8,
+   "spatial": 0.3,
+   "creative": 0.6,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.8,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.44,
+   "investigative": 0.86,
+   "artistic": 0.65,
+   "social": 0.93,
+   "enterprising": 0.51,
+   "conventional": 0.58,
+   "numerical": 0.65,
+   "logical": 0.79,
+   "verbal": 0.86,
+   "spatial": 0.51,
+   "creative": 0.72,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.86,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BA/B.Sc Psychology + MA, government college",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 20000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "BA/B.Sc Psychology + MA, private college",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 150000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 800000,
+   "year10INR": 1600000
+  },
+  "market": {
+   "jobVelocity": 16,
+   "disruptionIndex": 0.1,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.7,
+    "madurai": 0.7,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.6,
+    "mumbai": 0.8,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.7,
+    "ahmedabad": 0.6,
+    "kochi": 0.7,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "biotechnologist",
+  "name": "Biotechnologist",
+  "cluster": "lifeSciences",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcb",
+   "sciencePcmb",
+   "sciencePcm"
+  ],
+  "summary": "Uses living systems to build medicines, vaccines and materials.",
+  "requirement": {
+   "realistic": 0.5,
+   "investigative": 0.9,
+   "artistic": 0.3,
+   "social": 0.4,
+   "enterprising": 0.4,
+   "conventional": 0.6,
+   "numerical": 0.7,
+   "logical": 0.7,
+   "verbal": 0.5,
+   "spatial": 0.5,
+   "creative": 0.6,
+   "openness": 0.7,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.65,
+   "investigative": 0.93,
+   "artistic": 0.51,
+   "social": 0.58,
+   "enterprising": 0.58,
+   "conventional": 0.72,
+   "numerical": 0.79,
+   "logical": 0.79,
+   "verbal": 0.65,
+   "spatial": 0.65,
+   "creative": 0.72,
+   "openness": 0.79,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "neet-ug",
+     "viteee"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main",
+     "neet-ug",
+     "viteee"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 800000,
+   "year10INR": 1600000
+  },
+  "market": {
+   "jobVelocity": 14,
+   "disruptionIndex": 0.25,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.6,
+    "coimbatore": 0.4,
+    "madurai": 0.3,
+    "tiruppur": 0.2,
+    "bengaluru": 0.8,
+    "hyderabad": 1,
+    "pune": 0.6,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.5,
+    "kolkata": 0.4,
+    "ahmedabad": 0.8,
+    "kochi": 0.3,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "jee-main",
+   "neet-ug",
+   "viteee"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "climate-scientist",
+  "name": "Climate / environmental scientist",
+  "cluster": "lifeSciences",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Studies climate data to guide policy, insurance and farming.",
+  "requirement": {
+   "realistic": 0.5,
+   "investigative": 0.9,
+   "artistic": 0.3,
+   "social": 0.5,
+   "enterprising": 0.3,
+   "conventional": 0.5,
+   "numerical": 0.8,
+   "logical": 0.8,
+   "verbal": 0.6,
+   "spatial": 0.6,
+   "creative": 0.6,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.65,
+   "investigative": 0.93,
+   "artistic": 0.51,
+   "social": 0.65,
+   "enterprising": 0.51,
+   "conventional": 0.65,
+   "numerical": 0.86,
+   "logical": 0.86,
+   "verbal": 0.72,
+   "spatial": 0.72,
+   "creative": 0.72,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Sc + M.Sc, government college",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 20000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Sc + M.Sc, private college",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 120000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 1000000,
+   "year10INR": 2000000
+  },
+  "market": {
+   "jobVelocity": 18,
+   "disruptionIndex": 0.15,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.4,
+    "madurai": 0.3,
+    "tiruppur": 0.1,
+    "bengaluru": 0.9,
+    "hyderabad": 0.6,
+    "pune": 0.7,
+    "mumbai": 0.6,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.5,
+    "ahmedabad": 0.4,
+    "kochi": 0.4,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "research-scientist",
+  "name": "Research scientist (basic sciences)",
+  "cluster": "lifeSciences",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Does fundamental research in physics, chemistry, biology or maths.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.9,
+   "artistic": 0.4,
+   "social": 0.3,
+   "enterprising": 0.2,
+   "conventional": 0.6,
+   "numerical": 0.8,
+   "logical": 0.9,
+   "verbal": 0.7,
+   "spatial": 0.6,
+   "creative": 0.7,
+   "openness": 0.9,
+   "conscientiousness": 0.8,
+   "collaboration": 0.5,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.93,
+   "artistic": 0.58,
+   "social": 0.51,
+   "enterprising": 0.44,
+   "conventional": 0.72,
+   "numerical": 0.86,
+   "logical": 0.93,
+   "verbal": 0.79,
+   "spatial": 0.72,
+   "creative": 0.79,
+   "openness": 0.93,
+   "conscientiousness": 0.86,
+   "collaboration": 0.65,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BS-MS at IISER / central institute",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 100000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 30000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "iiser-iat",
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Sc + M.Sc, private college",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 120000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "iiser-iat",
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 900000,
+   "year10INR": 1800000
+  },
+  "market": {
+   "jobVelocity": 6,
+   "disruptionIndex": 0.15,
+   "salaryGrowthPct": 7,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.4,
+    "madurai": 0.3,
+    "tiruppur": 0.1,
+    "bengaluru": 0.9,
+    "hyderabad": 0.6,
+    "pune": 0.7,
+    "mumbai": 0.6,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.5,
+    "ahmedabad": 0.4,
+    "kochi": 0.4,
+    "abroad": 0.8
+   }
+  },
+  "relatedExamIds": [
+   "iiser-iat",
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "ux-designer",
+  "name": "UX / UI designer",
+  "cluster": "designArts",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Designs how apps and websites look, feel and work for people.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.6,
+   "artistic": 0.8,
+   "social": 0.6,
+   "enterprising": 0.5,
+   "conventional": 0.4,
+   "numerical": 0.4,
+   "logical": 0.6,
+   "verbal": 0.6,
+   "spatial": 0.7,
+   "creative": 0.9,
+   "openness": 0.9,
+   "conscientiousness": 0.6,
+   "collaboration": 0.7,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.72,
+   "artistic": 0.86,
+   "social": 0.72,
+   "enterprising": 0.65,
+   "conventional": 0.58,
+   "numerical": 0.58,
+   "logical": 0.72,
+   "verbal": 0.72,
+   "spatial": 0.79,
+   "creative": 0.93,
+   "openness": 0.93,
+   "conscientiousness": 0.72,
+   "collaboration": 0.79,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Des at NID / IIT",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 220000,
+    "livingPerYearINR": 80000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "uceed",
+     "nid-dat"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Des at a private design school",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 400000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 30000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "uceed",
+     "nid-dat"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 1200000,
+   "year10INR": 2400000
+  },
+  "market": {
+   "jobVelocity": 18,
+   "disruptionIndex": 0.3,
+   "salaryGrowthPct": 11,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "uceed",
+   "nid-dat"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "product-designer",
+  "name": "Industrial / product designer",
+  "cluster": "designArts",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Designs physical products, from appliances to medical devices.",
+  "requirement": {
+   "realistic": 0.6,
+   "investigative": 0.6,
+   "artistic": 0.8,
+   "social": 0.4,
+   "enterprising": 0.5,
+   "conventional": 0.4,
+   "numerical": 0.5,
+   "logical": 0.6,
+   "verbal": 0.5,
+   "spatial": 0.9,
+   "creative": 0.9,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.72,
+   "investigative": 0.72,
+   "artistic": 0.86,
+   "social": 0.58,
+   "enterprising": 0.65,
+   "conventional": 0.58,
+   "numerical": 0.65,
+   "logical": 0.72,
+   "verbal": 0.65,
+   "spatial": 0.93,
+   "creative": 0.93,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Des at NID / IIT",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 220000,
+    "livingPerYearINR": 80000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "uceed",
+     "nid-dat"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Des at a private design school",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 400000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 30000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "uceed",
+     "nid-dat"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 500000,
+   "year5INR": 1100000,
+   "year10INR": 2200000
+  },
+  "market": {
+   "jobVelocity": 14,
+   "disruptionIndex": 0.25,
+   "salaryGrowthPct": 10,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.85,
+    "madurai": 0.35,
+    "tiruppur": 0.5,
+    "bengaluru": 0.6,
+    "hyderabad": 0.5,
+    "pune": 0.9,
+    "mumbai": 0.5,
+    "delhi-ncr": 0.6,
+    "kolkata": 0.35,
+    "ahmedabad": 0.7,
+    "kochi": 0.3,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [
+   "uceed",
+   "nid-dat"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "architect",
+  "name": "Architect",
+  "cluster": "designArts",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Designs buildings and spaces that are safe, useful and beautiful.",
+  "requirement": {
+   "realistic": 0.6,
+   "investigative": 0.6,
+   "artistic": 0.8,
+   "social": 0.4,
+   "enterprising": 0.5,
+   "conventional": 0.5,
+   "numerical": 0.6,
+   "logical": 0.6,
+   "verbal": 0.5,
+   "spatial": 0.9,
+   "creative": 0.9,
+   "openness": 0.8,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.72,
+   "investigative": 0.72,
+   "artistic": 0.86,
+   "social": 0.58,
+   "enterprising": 0.65,
+   "conventional": 0.65,
+   "numerical": 0.72,
+   "logical": 0.72,
+   "verbal": 0.65,
+   "spatial": 0.93,
+   "creative": 0.93,
+   "openness": 0.86,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Arch at a government college",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 50000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 40000,
+    "examFeesINR": 2500,
+    "entryExamIds": [
+     "nata",
+     "jee-main"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Arch at a private college",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 40000,
+    "examFeesINR": 2500,
+    "entryExamIds": [
+     "nata",
+     "jee-main"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 350000,
+   "year5INR": 800000,
+   "year10INR": 1800000
+  },
+  "market": {
+   "jobVelocity": 7,
+   "disruptionIndex": 0.25,
+   "salaryGrowthPct": 7,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.4,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.8,
+    "pune": 0.7,
+    "mumbai": 0.9,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.5,
+    "ahmedabad": 0.6,
+    "kochi": 0.4,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "nata",
+   "jee-main"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "fashion-designer",
+  "name": "Fashion designer",
+  "cluster": "designArts",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Designs clothing and accessories; strong links to textile clusters.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.4,
+   "artistic": 0.9,
+   "social": 0.5,
+   "enterprising": 0.7,
+   "conventional": 0.3,
+   "numerical": 0.3,
+   "logical": 0.4,
+   "verbal": 0.5,
+   "spatial": 0.7,
+   "creative": 0.9,
+   "openness": 0.9,
+   "conscientiousness": 0.6,
+   "collaboration": 0.6,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.58,
+   "artistic": 0.93,
+   "social": 0.65,
+   "enterprising": 0.79,
+   "conventional": 0.51,
+   "numerical": 0.51,
+   "logical": 0.58,
+   "verbal": 0.65,
+   "spatial": 0.79,
+   "creative": 0.93,
+   "openness": 0.93,
+   "conscientiousness": 0.72,
+   "collaboration": 0.72,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Des (Fashion) at NIFT",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 330000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 40000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "nift"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "Fashion design, private institute",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 300000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 0,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "nift"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 700000,
+   "year10INR": 1500000
+  },
+  "market": {
+   "jobVelocity": 6,
+   "disruptionIndex": 0.3,
+   "salaryGrowthPct": 7,
+   "regionalDemand": {
+    "chennai": 0.5,
+    "coimbatore": 0.6,
+    "madurai": 0.4,
+    "tiruppur": 1,
+    "bengaluru": 0.6,
+    "hyderabad": 0.3,
+    "pune": 0.3,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.7,
+    "kolkata": 0.4,
+    "ahmedabad": 0.8,
+    "kochi": 0.2,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [
+   "nift"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "animation-vfx-artist",
+  "name": "Animation / VFX artist",
+  "cluster": "mediaAnimation",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Creates animation and visual effects for films, games and ads.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.4,
+   "artistic": 0.9,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.4,
+   "numerical": 0.3,
+   "logical": 0.5,
+   "verbal": 0.4,
+   "spatial": 0.8,
+   "creative": 0.9,
+   "openness": 0.8,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.58,
+   "artistic": 0.93,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.58,
+   "numerical": 0.51,
+   "logical": 0.65,
+   "verbal": 0.58,
+   "spatial": 0.86,
+   "creative": 0.93,
+   "openness": 0.86,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "private",
+    "label": "B.Sc Animation & VFX, private college",
+    "tier": "private",
+    "years": 3,
+    "tuitionPerYearINR": 200000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": []
+   },
+   {
+    "id": "online",
+    "label": "Diploma + portfolio (part-time, study from home)",
+    "tier": "online",
+    "years": 2,
+    "tuitionPerYearINR": 100000,
+    "livingPerYearINR": 30000,
+    "coachingINR": 0,
+    "examFeesINR": 0,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 700000,
+   "year10INR": 1400000
+  },
+  "market": {
+   "jobVelocity": 12,
+   "disruptionIndex": 0.4,
+   "salaryGrowthPct": 8,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.3,
+    "madurai": 0.2,
+    "tiruppur": 0.1,
+    "bengaluru": 0.6,
+    "hyderabad": 0.9,
+    "pune": 0.5,
+    "mumbai": 1,
+    "delhi-ncr": 0.7,
+    "kolkata": 0.5,
+    "ahmedabad": 0.3,
+    "kochi": 0.5,
+    "abroad": 0.5
+   }
+  },
+  "relatedExamIds": [],
+  "illustrative": true
+ },
+ {
+  "id": "game-developer",
+  "name": "Game developer",
+  "cluster": "mediaAnimation",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Designs and programs video games.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.7,
+   "artistic": 0.8,
+   "social": 0.3,
+   "enterprising": 0.4,
+   "conventional": 0.5,
+   "numerical": 0.7,
+   "logical": 0.8,
+   "verbal": 0.4,
+   "spatial": 0.7,
+   "creative": 0.9,
+   "openness": 0.8,
+   "conscientiousness": 0.6,
+   "collaboration": 0.6,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.79,
+   "artistic": 0.86,
+   "social": 0.51,
+   "enterprising": 0.58,
+   "conventional": 0.65,
+   "numerical": 0.79,
+   "logical": 0.86,
+   "verbal": 0.58,
+   "spatial": 0.79,
+   "creative": 0.93,
+   "openness": 0.86,
+   "conscientiousness": 0.72,
+   "collaboration": 0.72,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech CSE, government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "jee-main"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Sc Game Design, private college",
+    "tier": "private",
+    "years": 3,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 450000,
+   "year5INR": 1000000,
+   "year10INR": 2000000
+  },
+  "market": {
+   "jobVelocity": 16,
+   "disruptionIndex": 0.3,
+   "salaryGrowthPct": 10,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "jee-main"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "journalist-content",
+  "name": "Journalist / content creator",
+  "cluster": "mediaAnimation",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Researches and tells stories through text, video and podcasts.",
+  "requirement": {
+   "realistic": 0.2,
+   "investigative": 0.5,
+   "artistic": 0.8,
+   "social": 0.7,
+   "enterprising": 0.7,
+   "conventional": 0.3,
+   "numerical": 0.3,
+   "logical": 0.5,
+   "verbal": 0.9,
+   "spatial": 0.3,
+   "creative": 0.8,
+   "openness": 0.9,
+   "conscientiousness": 0.5,
+   "collaboration": 0.6,
+   "riskTolerance": 0.7
+  },
+  "importance": {
+   "realistic": 0.44,
+   "investigative": 0.65,
+   "artistic": 0.86,
+   "social": 0.79,
+   "enterprising": 0.79,
+   "conventional": 0.51,
+   "numerical": 0.51,
+   "logical": 0.65,
+   "verbal": 0.93,
+   "spatial": 0.51,
+   "creative": 0.86,
+   "openness": 0.93,
+   "conscientiousness": 0.65,
+   "collaboration": 0.72,
+   "riskTolerance": 0.79
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BA Journalism / Mass Comm, government college",
+    "tier": "govt",
+    "years": 3,
+    "tuitionPerYearINR": 15000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "BA Mass Communication, private college",
+    "tier": "private",
+    "years": 3,
+    "tuitionPerYearINR": 200000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 700000,
+   "year10INR": 1400000
+  },
+  "market": {
+   "jobVelocity": 8,
+   "disruptionIndex": 0.45,
+   "salaryGrowthPct": 7,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.3,
+    "madurai": 0.2,
+    "tiruppur": 0.1,
+    "bengaluru": 0.6,
+    "hyderabad": 0.9,
+    "pune": 0.5,
+    "mumbai": 1,
+    "delhi-ncr": 0.7,
+    "kolkata": 0.5,
+    "ahmedabad": 0.3,
+    "kochi": 0.5,
+    "abroad": 0.5
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "chartered-accountant",
+  "name": "Chartered accountant",
+  "cluster": "businessFinance",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Audits accounts, manages tax and advises businesses on finance.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.6,
+   "artistic": 0.2,
+   "social": 0.4,
+   "enterprising": 0.6,
+   "conventional": 0.9,
+   "numerical": 0.9,
+   "logical": 0.8,
+   "verbal": 0.6,
+   "spatial": 0.3,
+   "creative": 0.3,
+   "openness": 0.4,
+   "conscientiousness": 0.9,
+   "collaboration": 0.5,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.72,
+   "artistic": 0.44,
+   "social": 0.58,
+   "enterprising": 0.72,
+   "conventional": 0.93,
+   "numerical": 0.93,
+   "logical": 0.86,
+   "verbal": 0.72,
+   "spatial": 0.51,
+   "creative": 0.51,
+   "openness": 0.58,
+   "conscientiousness": 0.93,
+   "collaboration": 0.65,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "distance",
+    "label": "CA via ICAI (Foundation, Inter, Final + articleship)",
+    "tier": "distance",
+    "years": 5,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 50000,
+    "coachingINR": 150000,
+    "examFeesINR": 10000,
+    "entryExamIds": [
+     "ca-foundation"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Com + CA with full-time coaching",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 80000,
+    "livingPerYearINR": 80000,
+    "coachingINR": 200000,
+    "examFeesINR": 10000,
+    "entryExamIds": [
+     "ca-foundation"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 800000,
+   "year5INR": 1600000,
+   "year10INR": 3000000
+  },
+  "market": {
+   "jobVelocity": 8,
+   "disruptionIndex": 0.35,
+   "salaryGrowthPct": 8,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.3,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.6,
+    "pune": 0.6,
+    "mumbai": 1,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.6,
+    "ahmedabad": 0.6,
+    "kochi": 0.4,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "ca-foundation"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "financial-analyst",
+  "name": "Financial analyst",
+  "cluster": "businessFinance",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Analyses investments, markets and company performance.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.7,
+   "artistic": 0.2,
+   "social": 0.4,
+   "enterprising": 0.7,
+   "conventional": 0.8,
+   "numerical": 0.9,
+   "logical": 0.8,
+   "verbal": 0.6,
+   "spatial": 0.3,
+   "creative": 0.4,
+   "openness": 0.5,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.79,
+   "artistic": 0.44,
+   "social": 0.58,
+   "enterprising": 0.79,
+   "conventional": 0.86,
+   "numerical": 0.93,
+   "logical": 0.86,
+   "verbal": 0.72,
+   "spatial": 0.51,
+   "creative": 0.58,
+   "openness": 0.65,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Com + MBA (Finance), government institutes",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 70000,
+    "coachingINR": 30000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "cuet-ug",
+     "ipmat"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "BBA + MBA (Finance), private institutes",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 300000,
+    "livingPerYearINR": 110000,
+    "coachingINR": 30000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "cuet-ug",
+     "ipmat"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 600000,
+   "year5INR": 1400000,
+   "year10INR": 2800000
+  },
+  "market": {
+   "jobVelocity": 12,
+   "disruptionIndex": 0.35,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.3,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.6,
+    "pune": 0.6,
+    "mumbai": 1,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.6,
+    "ahmedabad": 0.6,
+    "kochi": 0.4,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug",
+   "ipmat"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "entrepreneur",
+  "name": "Startup founder / entrepreneur",
+  "cluster": "businessFinance",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Builds a new business; high uncertainty, high upside.",
+  "requirement": {
+   "realistic": 0.5,
+   "investigative": 0.6,
+   "artistic": 0.6,
+   "social": 0.6,
+   "enterprising": 0.9,
+   "conventional": 0.4,
+   "numerical": 0.6,
+   "logical": 0.7,
+   "verbal": 0.7,
+   "spatial": 0.5,
+   "creative": 0.8,
+   "openness": 0.9,
+   "conscientiousness": 0.6,
+   "collaboration": 0.7,
+   "riskTolerance": 0.9
+  },
+  "importance": {
+   "realistic": 0.65,
+   "investigative": 0.72,
+   "artistic": 0.72,
+   "social": 0.72,
+   "enterprising": 0.93,
+   "conventional": 0.58,
+   "numerical": 0.72,
+   "logical": 0.79,
+   "verbal": 0.79,
+   "spatial": 0.65,
+   "creative": 0.86,
+   "openness": 0.93,
+   "conscientiousness": 0.72,
+   "collaboration": 0.79,
+   "riskTolerance": 0.93
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BBA, government college",
+    "tier": "govt",
+    "years": 3,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 70000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "ipmat",
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "ipm",
+    "label": "Integrated programme in management (5 yr, IIM)",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 400000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 50000,
+    "examFeesINR": 4000,
+    "entryExamIds": [
+     "ipmat",
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 1000000,
+   "year10INR": 3000000
+  },
+  "market": {
+   "jobVelocity": 10,
+   "disruptionIndex": 0.15,
+   "salaryGrowthPct": 12,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "ipmat",
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "digital-marketer",
+  "name": "Digital marketer",
+  "cluster": "businessFinance",
+  "emerging": true,
+  "eligibleStreams": [],
+  "summary": "Grows brands online through content, ads and analytics.",
+  "requirement": {
+   "realistic": 0.2,
+   "investigative": 0.5,
+   "artistic": 0.7,
+   "social": 0.6,
+   "enterprising": 0.8,
+   "conventional": 0.5,
+   "numerical": 0.5,
+   "logical": 0.6,
+   "verbal": 0.8,
+   "spatial": 0.3,
+   "creative": 0.8,
+   "openness": 0.8,
+   "conscientiousness": 0.6,
+   "collaboration": 0.7,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.44,
+   "investigative": 0.65,
+   "artistic": 0.79,
+   "social": 0.72,
+   "enterprising": 0.86,
+   "conventional": 0.65,
+   "numerical": 0.65,
+   "logical": 0.72,
+   "verbal": 0.86,
+   "spatial": 0.51,
+   "creative": 0.86,
+   "openness": 0.86,
+   "conscientiousness": 0.72,
+   "collaboration": 0.79,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "BBA, government college",
+    "tier": "govt",
+    "years": 3,
+    "tuitionPerYearINR": 30000,
+    "livingPerYearINR": 70000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "ipm",
+    "label": "Integrated programme in management (5 yr, IIM)",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 400000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 50000,
+    "examFeesINR": 4000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 350000,
+   "year5INR": 800000,
+   "year10INR": 1600000
+  },
+  "market": {
+   "jobVelocity": 14,
+   "disruptionIndex": 0.4,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.8,
+    "coimbatore": 0.5,
+    "madurai": 0.25,
+    "tiruppur": 0.1,
+    "bengaluru": 1,
+    "hyderabad": 0.9,
+    "pune": 0.75,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.8,
+    "kolkata": 0.45,
+    "ahmedabad": 0.4,
+    "kochi": 0.45,
+    "abroad": 0.7
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "lawyer",
+  "name": "Lawyer",
+  "cluster": "lawGovernance",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Advises and represents clients in legal matters.",
+  "requirement": {
+   "realistic": 0.2,
+   "investigative": 0.7,
+   "artistic": 0.4,
+   "social": 0.7,
+   "enterprising": 0.8,
+   "conventional": 0.6,
+   "numerical": 0.4,
+   "logical": 0.8,
+   "verbal": 0.9,
+   "spatial": 0.3,
+   "creative": 0.5,
+   "openness": 0.7,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.5
+  },
+  "importance": {
+   "realistic": 0.44,
+   "investigative": 0.79,
+   "artistic": 0.58,
+   "social": 0.79,
+   "enterprising": 0.86,
+   "conventional": 0.72,
+   "numerical": 0.58,
+   "logical": 0.86,
+   "verbal": 0.93,
+   "spatial": 0.51,
+   "creative": 0.65,
+   "openness": 0.79,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.65
+  },
+  "routes": [
+   {
+    "id": "nlu",
+    "label": "5-yr BA LLB at a National Law University",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 60000,
+    "examFeesINR": 4000,
+    "entryExamIds": [
+     "clat"
+    ]
+   },
+   {
+    "id": "govt",
+    "label": "5-yr BA LLB at a government law college",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 20000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 20000,
+    "examFeesINR": 1000,
+    "entryExamIds": []
+   },
+   {
+    "id": "private",
+    "label": "5-yr BA LLB at a private university",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 200000,
+    "livingPerYearINR": 100000,
+    "coachingINR": 30000,
+    "examFeesINR": 2000,
+    "entryExamIds": [
+     "clat"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 1000000,
+   "year10INR": 2500000
+  },
+  "market": {
+   "jobVelocity": 6,
+   "disruptionIndex": 0.3,
+   "salaryGrowthPct": 9,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.3,
+    "tiruppur": 0.3,
+    "bengaluru": 0.8,
+    "hyderabad": 0.6,
+    "pune": 0.6,
+    "mumbai": 1,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.6,
+    "ahmedabad": 0.6,
+    "kochi": 0.4,
+    "abroad": 0.6
+   }
+  },
+  "relatedExamIds": [
+   "clat"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "civil-services",
+  "name": "Civil services officer (IAS/IPS etc.)",
+  "cluster": "lawGovernance",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Runs government administration; selected through UPSC exams.",
+  "requirement": {
+   "realistic": 0.4,
+   "investigative": 0.7,
+   "artistic": 0.3,
+   "social": 0.8,
+   "enterprising": 0.7,
+   "conventional": 0.7,
+   "numerical": 0.6,
+   "logical": 0.7,
+   "verbal": 0.8,
+   "spatial": 0.4,
+   "creative": 0.5,
+   "openness": 0.7,
+   "conscientiousness": 0.9,
+   "collaboration": 0.7,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.58,
+   "investigative": 0.79,
+   "artistic": 0.51,
+   "social": 0.86,
+   "enterprising": 0.79,
+   "conventional": 0.79,
+   "numerical": 0.72,
+   "logical": 0.79,
+   "verbal": 0.86,
+   "spatial": 0.58,
+   "creative": 0.65,
+   "openness": 0.79,
+   "conscientiousness": 0.93,
+   "collaboration": 0.79,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "Any degree (govt college) + 2 yrs preparation",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 15000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 150000,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "upsc-cse"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "Degree (private) + coaching institute",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 100000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 250000,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "upsc-cse"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 900000,
+   "year5INR": 1300000,
+   "year10INR": 2000000
+  },
+  "market": {
+   "jobVelocity": 2,
+   "disruptionIndex": 0.05,
+   "salaryGrowthPct": 5,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.5,
+    "tiruppur": 0.4,
+    "bengaluru": 0.6,
+    "hyderabad": 0.6,
+    "pune": 0.5,
+    "mumbai": 0.6,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.6,
+    "ahmedabad": 0.5,
+    "kochi": 0.5,
+    "abroad": 0.1
+   }
+  },
+  "relatedExamIds": [
+   "upsc-cse"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "teacher",
+  "name": "Teacher / educator",
+  "cluster": "educationSocial",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Teaches and mentors students in schools or coaching.",
+  "requirement": {
+   "realistic": 0.3,
+   "investigative": 0.6,
+   "artistic": 0.5,
+   "social": 0.9,
+   "enterprising": 0.5,
+   "conventional": 0.5,
+   "numerical": 0.5,
+   "logical": 0.6,
+   "verbal": 0.8,
+   "spatial": 0.4,
+   "creative": 0.6,
+   "openness": 0.7,
+   "conscientiousness": 0.8,
+   "collaboration": 0.9,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.51,
+   "investigative": 0.72,
+   "artistic": 0.65,
+   "social": 0.93,
+   "enterprising": 0.65,
+   "conventional": 0.65,
+   "numerical": 0.65,
+   "logical": 0.72,
+   "verbal": 0.86,
+   "spatial": 0.58,
+   "creative": 0.72,
+   "openness": 0.79,
+   "conscientiousness": 0.86,
+   "collaboration": 0.93,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "Degree + B.Ed, government colleges",
+    "tier": "govt",
+    "years": 5,
+    "tuitionPerYearINR": 15000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "Degree + B.Ed, private colleges",
+    "tier": "private",
+    "years": 5,
+    "tuitionPerYearINR": 80000,
+    "livingPerYearINR": 80000,
+    "coachingINR": 0,
+    "examFeesINR": 1000,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 300000,
+   "year5INR": 500000,
+   "year10INR": 800000
+  },
+  "market": {
+   "jobVelocity": 6,
+   "disruptionIndex": 0.15,
+   "salaryGrowthPct": 5,
+   "regionalDemand": {
+    "chennai": 0.7,
+    "coimbatore": 0.5,
+    "madurai": 0.5,
+    "tiruppur": 0.4,
+    "bengaluru": 0.6,
+    "hyderabad": 0.6,
+    "pune": 0.5,
+    "mumbai": 0.6,
+    "delhi-ncr": 0.9,
+    "kolkata": 0.6,
+    "ahmedabad": 0.5,
+    "kochi": 0.5,
+    "abroad": 0.1
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "agritech-specialist",
+  "name": "Agritech specialist",
+  "cluster": "agriEnvironment",
+  "emerging": true,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Uses drones, sensors and data to raise farm yields.",
+  "requirement": {
+   "realistic": 0.8,
+   "investigative": 0.7,
+   "artistic": 0.3,
+   "social": 0.5,
+   "enterprising": 0.6,
+   "conventional": 0.5,
+   "numerical": 0.6,
+   "logical": 0.6,
+   "verbal": 0.5,
+   "spatial": 0.6,
+   "creative": 0.6,
+   "openness": 0.7,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.6
+  },
+  "importance": {
+   "realistic": 0.86,
+   "investigative": 0.79,
+   "artistic": 0.51,
+   "social": 0.65,
+   "enterprising": 0.72,
+   "conventional": 0.65,
+   "numerical": 0.72,
+   "logical": 0.72,
+   "verbal": 0.65,
+   "spatial": 0.72,
+   "creative": 0.72,
+   "openness": 0.79,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.72
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Sc Agriculture at a state agricultural university",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 50000,
+    "livingPerYearINR": 60000,
+    "coachingINR": 20000,
+    "examFeesINR": 1500,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Sc Agriculture, private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 150000,
+    "livingPerYearINR": 90000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": [
+     "cuet-ug"
+    ]
+   }
+  ],
+  "salary": {
+   "startingINR": 400000,
+   "year5INR": 900000,
+   "year10INR": 1800000
+  },
+  "market": {
+   "jobVelocity": 20,
+   "disruptionIndex": 0.2,
+   "salaryGrowthPct": 10,
+   "regionalDemand": {
+    "chennai": 0.4,
+    "coimbatore": 0.8,
+    "madurai": 0.7,
+    "tiruppur": 0.5,
+    "bengaluru": 0.5,
+    "hyderabad": 0.6,
+    "pune": 0.6,
+    "mumbai": 0.3,
+    "delhi-ncr": 0.4,
+    "kolkata": 0.5,
+    "ahmedabad": 0.5,
+    "kochi": 0.5,
+    "abroad": 0.3
+   }
+  },
+  "relatedExamIds": [
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "food-technologist",
+  "name": "Food technologist",
+  "cluster": "agriEnvironment",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcb",
+   "sciencePcmb"
+  ],
+  "summary": "Develops and tests safe, processed food products.",
+  "requirement": {
+   "realistic": 0.6,
+   "investigative": 0.8,
+   "artistic": 0.3,
+   "social": 0.4,
+   "enterprising": 0.4,
+   "conventional": 0.7,
+   "numerical": 0.6,
+   "logical": 0.6,
+   "verbal": 0.5,
+   "spatial": 0.5,
+   "creative": 0.5,
+   "openness": 0.6,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.72,
+   "investigative": 0.86,
+   "artistic": 0.51,
+   "social": 0.58,
+   "enterprising": 0.58,
+   "conventional": 0.79,
+   "numerical": 0.72,
+   "logical": 0.72,
+   "verbal": 0.65,
+   "spatial": 0.65,
+   "creative": 0.65,
+   "openness": 0.72,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "tnea",
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "tnea",
+     "cuet-ug"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 350000,
+   "year5INR": 700000,
+   "year10INR": 1300000
+  },
+  "market": {
+   "jobVelocity": 10,
+   "disruptionIndex": 0.3,
+   "salaryGrowthPct": 7,
+   "regionalDemand": {
+    "chennai": 0.4,
+    "coimbatore": 0.8,
+    "madurai": 0.7,
+    "tiruppur": 0.5,
+    "bengaluru": 0.5,
+    "hyderabad": 0.6,
+    "pune": 0.6,
+    "mumbai": 0.3,
+    "delhi-ncr": 0.4,
+    "kolkata": 0.5,
+    "ahmedabad": 0.5,
+    "kochi": 0.5,
+    "abroad": 0.3
+   }
+  },
+  "relatedExamIds": [
+   "tnea",
+   "cuet-ug"
+  ],
+  "illustrative": true
+ },
+ {
+  "id": "cnc-automation-technician",
+  "name": "CNC / automation technician",
+  "cluster": "manufacturingSkilled",
+  "emerging": false,
+  "eligibleStreams": [],
+  "summary": "Programs and runs CNC machines and factory automation.",
+  "requirement": {
+   "realistic": 0.9,
+   "investigative": 0.5,
+   "artistic": 0.2,
+   "social": 0.3,
+   "enterprising": 0.3,
+   "conventional": 0.7,
+   "numerical": 0.6,
+   "logical": 0.6,
+   "verbal": 0.3,
+   "spatial": 0.8,
+   "creative": 0.4,
+   "openness": 0.4,
+   "conscientiousness": 0.8,
+   "collaboration": 0.6,
+   "riskTolerance": 0.3
+  },
+  "importance": {
+   "realistic": 0.93,
+   "investigative": 0.65,
+   "artistic": 0.44,
+   "social": 0.51,
+   "enterprising": 0.51,
+   "conventional": 0.79,
+   "numerical": 0.72,
+   "logical": 0.72,
+   "verbal": 0.51,
+   "spatial": 0.86,
+   "creative": 0.58,
+   "openness": 0.58,
+   "conscientiousness": 0.86,
+   "collaboration": 0.72,
+   "riskTolerance": 0.51
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "Diploma at a government polytechnic",
+    "tier": "govt",
+    "years": 3,
+    "tuitionPerYearINR": 10000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 500,
+    "entryExamIds": []
+   },
+   {
+    "id": "iti",
+    "label": "ITI trade certificate + apprenticeship",
+    "tier": "govt",
+    "years": 2,
+    "tuitionPerYearINR": 5000,
+    "livingPerYearINR": 40000,
+    "coachingINR": 0,
+    "examFeesINR": 0,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 250000,
+   "year5INR": 500000,
+   "year10INR": 900000
+  },
+  "market": {
+   "jobVelocity": 12,
+   "disruptionIndex": 0.45,
+   "salaryGrowthPct": 6,
+   "regionalDemand": {
+    "chennai": 0.9,
+    "coimbatore": 0.85,
+    "madurai": 0.35,
+    "tiruppur": 0.5,
+    "bengaluru": 0.6,
+    "hyderabad": 0.5,
+    "pune": 0.9,
+    "mumbai": 0.5,
+    "delhi-ncr": 0.6,
+    "kolkata": 0.35,
+    "ahmedabad": 0.7,
+    "kochi": 0.3,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [],
+  "illustrative": true
+ },
+ {
+  "id": "textile-technologist",
+  "name": "Textile technologist",
+  "cluster": "manufacturingSkilled",
+  "emerging": false,
+  "eligibleStreams": [
+   "sciencePcm",
+   "sciencePcmb"
+  ],
+  "summary": "Develops fabrics and improves textile production.",
+  "requirement": {
+   "realistic": 0.7,
+   "investigative": 0.6,
+   "artistic": 0.5,
+   "social": 0.4,
+   "enterprising": 0.5,
+   "conventional": 0.6,
+   "numerical": 0.6,
+   "logical": 0.6,
+   "verbal": 0.4,
+   "spatial": 0.6,
+   "creative": 0.6,
+   "openness": 0.6,
+   "conscientiousness": 0.7,
+   "collaboration": 0.6,
+   "riskTolerance": 0.4
+  },
+  "importance": {
+   "realistic": 0.79,
+   "investigative": 0.72,
+   "artistic": 0.65,
+   "social": 0.58,
+   "enterprising": 0.65,
+   "conventional": 0.72,
+   "numerical": 0.72,
+   "logical": 0.72,
+   "verbal": 0.58,
+   "spatial": 0.72,
+   "creative": 0.72,
+   "openness": 0.72,
+   "conscientiousness": 0.79,
+   "collaboration": 0.72,
+   "riskTolerance": 0.58
+  },
+  "routes": [
+   {
+    "id": "govt",
+    "label": "B.Tech at a government college",
+    "tier": "govt",
+    "years": 4,
+    "tuitionPerYearINR": 60000,
+    "livingPerYearINR": 72000,
+    "coachingINR": 100000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "tnea"
+    ]
+   },
+   {
+    "id": "private",
+    "label": "B.Tech at a private college",
+    "tier": "private",
+    "years": 4,
+    "tuitionPerYearINR": 250000,
+    "livingPerYearINR": 120000,
+    "coachingINR": 50000,
+    "examFeesINR": 3000,
+    "entryExamIds": [
+     "tnea"
+    ]
+   },
+   {
+    "id": "lateral",
+    "label": "Polytechnic diploma, then B.Tech (lateral entry)",
+    "tier": "lateralEntry",
+    "years": 6,
+    "tuitionPerYearINR": 40000,
+    "livingPerYearINR": 48000,
+    "coachingINR": 0,
+    "examFeesINR": 1500,
+    "entryExamIds": []
+   }
+  ],
+  "salary": {
+   "startingINR": 350000,
+   "year5INR": 700000,
+   "year10INR": 1300000
+  },
+  "market": {
+   "jobVelocity": 8,
+   "disruptionIndex": 0.35,
+   "salaryGrowthPct": 6,
+   "regionalDemand": {
+    "chennai": 0.5,
+    "coimbatore": 0.6,
+    "madurai": 0.4,
+    "tiruppur": 1,
+    "bengaluru": 0.6,
+    "hyderabad": 0.3,
+    "pune": 0.3,
+    "mumbai": 0.7,
+    "delhi-ncr": 0.7,
+    "kolkata": 0.4,
+    "ahmedabad": 0.8,
+    "kochi": 0.2,
+    "abroad": 0.4
+   }
+  },
+  "relatedExamIds": [
+   "tnea"
+  ],
+  "illustrative": true
+ }
+]

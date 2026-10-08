@@ -1,0 +1,119 @@
+[
+ {
+  "id": "chennai",
+  "name": "Chennai",
+  "state": "Tamil Nadu",
+  "lat": 13.08,
+  "lng": 80.27,
+  "isMetro": true,
+  "isAbroad": false
+ },
+ {
+  "id": "coimbatore",
+  "name": "Coimbatore",
+  "state": "Tamil Nadu",
+  "lat": 11.02,
+  "lng": 76.96,
+  "isMetro": false,
+  "isAbroad": false
+ },
+ {
+  "id": "madurai",
+  "name": "Madurai",
+  "state": "Tamil Nadu",
+  "lat": 9.93,
+  "lng": 78.12,
+  "isMetro": false,
+  "isAbroad": false
+ },
+ {
+  "id": "tiruppur",
+  "name": "Tiruppur",
+  "state": "Tamil Nadu",
+  "lat": 11.11,
+  "lng": 77.34,
+  "isMetro": false,
+  "isAbroad": false
+ },
+ {
+  "id": "bengaluru",
+  "name": "Bengaluru",
+  "state": "Karnataka",
+  "lat": 12.97,
+  "lng": 77.59,
+  "isMetro": true,
+  "isAbroad": false
+ },
+ {
+  "id": "hyderabad",
+  "name": "Hyderabad",
+  "state": "Telangana",
+  "lat": 17.39,
+  "lng": 78.49,
+  "isMetro": true,
+  "isAbroad": false
+ },
+ {
+  "id": "pune",
+  "name": "Pune",
+  "state": "Maharashtra",
+  "lat": 18.52,
+  "lng": 73.86,
+  "isMetro": false,
+  "isAbroad": false
+ },
+ {
+  "id": "mumbai",
+  "name": "Mumbai",
+  "state": "Maharashtra",
+  "lat": 19.08,
+  "lng": 72.88,
+  "isMetro": true,
+  "isAbroad": false
+ },
+ {
+  "id": "delhi-ncr",
+  "name": "Delhi NCR",
+  "state": "Delhi",
+  "lat": 28.61,
+  "lng": 77.21,
+  "isMetro": true,
+  "isAbroad": false
+ },
+ {
+  "id": "kolkata",
+  "name": "Kolkata",
+  "state": "West Bengal",
+  "lat": 22.57,
+  "lng": 88.36,
+  "isMetro": true,
+  "isAbroad": false
+ },
+ {
+  "id": "ahmedabad",
+  "name": "Ahmedabad",
+  "state": "Gujarat",
+  "lat": 23.02,
+  "lng": 72.57,
+  "isMetro": false,
+  "isAbroad": false
+ },
+ {
+  "id": "kochi",
+  "name": "Kochi",
+  "state": "Kerala",
+  "lat": 9.93,
+  "lng": 76.27,
+  "isMetro": false,
+  "isAbroad": false
+ },
+ {
+  "id": "abroad",
+  "name": "Abroad (Gulf / EU / US)",
+  "state": "Abroad",
+  "lat": 0,
+  "lng": 0,
+  "isMetro": false,
+  "isAbroad": true
+ }
+]
